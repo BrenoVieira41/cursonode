@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "Repositorio do curso de NodeJs da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brenovieira41/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "BrenoH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brenovieira41/cursonode/issues"
+  },
+  "homepage": "https://github.com/Brenovieira41/cursonode#readme"
+}
