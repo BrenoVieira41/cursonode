@@ -1,0 +1,12 @@
+### acessando via GET
+GET http://localhost:3000/subscribers
+###
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+    "userName": "Djalma Sindeux",
+    "userChannel": "hcodebrasil"
+}
+###
+GET http://localhost:3000/subscribers/5eb365e06545f60c60ed7245

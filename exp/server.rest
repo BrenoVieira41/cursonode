@@ -1,0 +1,12 @@
+### get admin
+Get http://localhost:3000/admin
+### get admin com id
+Get http://localhost:3000/admin/20
+###acessando  via post
+POST http://localhost:3000/admin
+Content-type: application/json
+
+{
+    "login":"Breno Henrique",
+    "senha":"Malenito"
+}
